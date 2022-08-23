@@ -8,8 +8,8 @@
         Title="MainWindow" Height="350" Width="600" ResizeMode="NoResize">
     <Grid>
         <Button>
-            <TextBox FontSize="45">
-                Hola
+            <TextBox FontSize="25" TextChanged="TextBox_TextChanged">
+                Nuevos cambios pronto
             </TextBox>   
         </Button>
     </Grid>
