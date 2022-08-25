@@ -1,20 +1,20 @@
 ﻿Thoth
-1.0.0.0
+
 
 winexe
 C#
 .cs
-c:\Ing.Sis\BD I\Thot\Thot2022\Thoth\Thoth\obj\Debug\net6.0-windows\
+C:\Ing.Sis\BD I\Thot\Thot2022\Thoth\Thoth\obj\Debug\net6.0-windows\
 Thoth
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-c:\Ing.Sis\BD I\Thot\Thot2022\Thoth\Thoth\App.xaml
+C:\Ing.Sis\BD I\Thot\Thot2022\Thoth\Thoth\App.xaml
 2575916726
 
-61624811758
+41523285174
 194-200944676
 MainWindow.xaml;Views\Login.xaml;
 
-True
+False
 
